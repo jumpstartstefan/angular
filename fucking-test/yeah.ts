@@ -1,1 +1,1 @@
-no way
+let b = 2
